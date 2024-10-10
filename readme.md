@@ -1,0 +1,1 @@
+Projekt w ramach przedmiotu "Zarządzanie projektem wdrożeniowym"
